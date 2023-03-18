@@ -18,9 +18,9 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("Your Legend Spam Bot Has Been Deployed Successfully")
+print("Your FCR X TA Spam Bot Has Been Deployed Successfully")
 print(
-    "Congratulations 😇 For Being A Part Of LegendBot \nJoin @LegendBot_OP For Any Help"
+    "Congratulations 😇 For Being A Part Of FCR X TA \nJoin @Do_jism_ek_jaan_op For Any Help"
 )
 
 if __name__ == "__main__":
